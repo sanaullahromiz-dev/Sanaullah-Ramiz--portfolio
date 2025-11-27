@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sanaullahromiz-dev/sanaullahromiz-dep/main/portfolio-banner.png.jpeg" alt="Sanaullah Ramiz - Professional Portfolio">
+  <img src="https://github.com/sanaullahromiz-dev/Sanaullah-Ramiz--portfolio/blob/main/protfolio-banner.png">
 </p>
 
 <h1 align="center">Sanaullah Ramiz - My Professional Portfolio</h1>
